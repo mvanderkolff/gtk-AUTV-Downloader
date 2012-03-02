@@ -1,0 +1,9 @@
+This is going to be an Australian TV Downloader, implemented in Python with the GTK+ libraries.
+
+For development, you need PyGObject, the SBSOnDemand library, and python 2.7+
+
+Please do come along for the ride.
+
+Cheers,
+
+Michael
